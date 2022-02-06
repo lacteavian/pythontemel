@@ -1,0 +1,2 @@
+# pythontemel
+patika proje
